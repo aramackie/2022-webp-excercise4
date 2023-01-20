@@ -1,0 +1,35 @@
+.section {
+  padding: 1.5rem;
+}
+
+.panel {
+  margin-bottom: 1.5rem;
+}
+
+.tabs.is-toggle input[type=radio] {
+  display: none;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+}
+
+td.name, td.availability, td.grade {
+  width: 10%;
+}
+
+td.className {
+  width: 40%;
+}
+
+td.teacher {
+  width: 30%;
+}
+
+span.loader {
+  display: inline-block;
+}
+
+h3.formHeader {
+  text-align: center;
+}
